@@ -1,2 +1,2 @@
 # Nim
-AI trained to play Nim
+AI trained to play Nim.
